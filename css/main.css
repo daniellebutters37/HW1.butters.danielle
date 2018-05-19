@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/*hide titles*/
+
+.hidden {
+	display:none;
+}
+
+#container{
+	width: 960px;
+	margin: 0 auto; 
+}
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h3{
+	font-size: 25px;
+}
+
+#mainHeader{
+	height:300px;
+	border-bottom: solid 1px #e7e7e7;
+	margin-top:40px;
+}
+
+.selfImg{
+	float: left;
+}
+
+.selfImg img{
+	border-radius: 50%;
+}
+
+.nameTitle h2{
+	font-size: 75px;
+	float:right;
+	margin-right:100px;
+	margin-top: 70px;
+}
+
+#aboutSection{
+	clear:both;
+}
+
+.aboutText{
+	width:400px;
+	margin-left:100px;
+	float:left;
+	margin-top:50px;
+}
+
+.childhoodImg img{
+	float:left;
+	border-radius: 100%;
+	margin-left:130px;
+	margin-top:20px;
+}
+
+.newzealandImg img{
+	float:left;
+	border-radius: 100%;
+	margin-left:130px;
+	margin-top:20px;
+}
+
+.hockeyImg img{
+	float:left;
+	border-radius: 100%;
+	margin-left:130px;
+	margin-top:20px;
+}
+
